@@ -7,7 +7,7 @@
 - Data Binding
 
 \
-NOTE: Only facebook developer user can SignIn, and only facebook developer users will appear at friends list.
+NOTE: Only facebook developer user can SignIn, and only facebook developer users will appear in the friends list.
 \
 \
 **ScreenShots:**
